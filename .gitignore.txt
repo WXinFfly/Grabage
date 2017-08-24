@@ -1,0 +1,3 @@
+﻿/gen/
+/bin/
+project.properties
